@@ -2,6 +2,7 @@
   "name": "stockdash",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ChowNUSISS.github.io/StockV2",
   "dependencies": {
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.2",
